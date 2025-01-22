@@ -37,7 +37,7 @@ Check out the live website here: [Dice Game Live Demo](https://kaweeshwara.githu
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourgithubusername/dice-game.git
+   git clone https://github.com/kaweeshwara/Dice-Roll.git
 
 
    ```
