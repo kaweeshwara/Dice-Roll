@@ -12,7 +12,7 @@ Dice Game is a simple, fun, and interactive web app where players roll dice and 
 
 ## 🔗 Live Demo
 
-Check out the live website here: [Dice Game Live Demo](https://yourgithubusername.github.io/dice-game/)
+Check out the live website here: [Dice Game Live Demo](https://kaweeshwara.github.io/Dice-Roll/)
 
 ---
 
