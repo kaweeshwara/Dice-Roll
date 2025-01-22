@@ -1,0 +1,78 @@
+body {
+  background-color: #eaeaea; /* Light blue background */
+  font-family: "Helvetica Neue", Arial, sans-serif; /* Modern sans-serif font */
+  color: #333; /* Dark grey font color */
+  margin: 0;
+  padding: 0;
+}
+
+.gradient-background {
+  background: linear-gradient(140deg, #ccff00, #bf00ff, #ff3131);
+  background-size: 180% 180%;
+  animation: gradient-animation 15s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 100vh;
+  justify-content: flex-start;
+  padding-top: 20px;
+}
+
+.header {
+  font-size: 2.5em;
+  color: #fffae3;
+  margin-bottom: 0px;
+}
+
+.players {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.player-one,
+.player-two {
+  margin: 0 20px;
+  text-align: center;
+  color: #2c3e50; /* Darker color for player text */
+}
+
+.dice-image {
+  max-width: 100px;
+  max-height: 100px;
+  width: auto;
+  height: auto;
+}
+
+.btn-roll {
+  margin-top: 50px;
+  padding: 10px 20px;
+  background-color: #ff6f61;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1em;
+  transition: background-color 0.3s ease;
+}
+
+.btn-roll:active {
+  background-color: #002aff;
+  transition: background-color 0.2s;
+}
