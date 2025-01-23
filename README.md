@@ -4,8 +4,6 @@ Dice Game is a simple, fun, and interactive web app where players roll dice and 
 
 ---
 
-
-
 ![Website Screenshot](images/readMD.png)
 
 ---
