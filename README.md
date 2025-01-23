@@ -4,7 +4,7 @@ Dice Game is a simple, fun, and interactive web app where players roll dice and 
 
 ---
 
-## 📸 Preview
+
 
 ![Website Screenshot](images/readMD.png)
 
@@ -12,7 +12,7 @@ Dice Game is a simple, fun, and interactive web app where players roll dice and 
 
 ## 🔗 Live Demo
 
-Check out the live website here: [Dice Game Live Demo](https://yourgithubusername.github.io/dice-game/)
+Check out the live website here: [Dice Game Live Demo](https://kaweeshwara.github.io/Dice-Roll/)
 
 ---
 
@@ -37,7 +37,7 @@ Check out the live website here: [Dice Game Live Demo](https://yourgithubusernam
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourgithubusername/dice-game.git
+   git clone https://github.com/kaweeshwara/Dice-Roll.git
 
 
    ```
