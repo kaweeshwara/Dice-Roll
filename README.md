@@ -16,10 +16,22 @@ Check out the live website here: [Dice Game Live Demo](https://kaweeshwara.githu
 
 ## 📂 Features
 
-- 🎲 Roll the dice and compete for the highest score.
-- ✨ Sleek and minimalist design for an enjoyable user experience.
-- 🎨 Animated gradient background for an eye-catching aesthetic.
-- 📱 Fully responsive and works smoothly on all devices.
+- 🎲 Turn-based dice rolling system (Player 1 rolls first, then Player 2)
+- 🎯 Player highlighting to show whose turn it is
+- 🏆 Automatic winner declaration after both players roll
+- ✨ Sleek and minimalist design for an enjoyable user experience
+- 🎨 Animated gradient background for an eye-catching aesthetic
+- 📱 Fully responsive and works smoothly on all devices
+- ⏱️ Automatic game reset after each round
+
+### How to Play
+
+1. Game starts with Player 1's turn
+2. Player 1 clicks the "Roll Dice" button
+3. After Player 1 rolls, turn switches to Player 2
+4. Player 2 rolls to complete the round
+5. Winner is displayed with a trophy 🏆
+6. Game automatically resets after 2 seconds
 
 ---
 
@@ -36,8 +48,6 @@ Check out the live website here: [Dice Game Live Demo](https://kaweeshwara.githu
 
    ```bash
    git clone https://github.com/kaweeshwara/Dice-Roll.git
-
-
    ```
 
 2. Open `index.html` in your browser to play the game!
