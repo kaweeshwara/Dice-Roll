@@ -76,3 +76,11 @@ body {
   background-color: #002aff;
   transition: background-color 0.2s;
 }
+
+.player1Highlight {
+  color: white;
+}
+
+.player2Highlight {
+  color: white;
+}
